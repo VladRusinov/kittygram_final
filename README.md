@@ -1,3 +1,4 @@
+[![Typing SVG align="center"](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=API+YAMDB)](https://git.io/typing-svg)
 ![example workflow](https://github.com/VladRusinov/kittygram_final/actions/workflows/main.yml/badge.svg)
 ## О проекте
 проект kittygram_final Настраивает запуск проекта Kittygram в контейнерах и CI/CD с помощью GitHub Actions.
